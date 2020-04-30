@@ -40,3 +40,4 @@ clusplot(dataset,
          main = paste('Clusters of customers'),
          xlab = 'Annual Income',
          ylab = 'Spending Score')
+
